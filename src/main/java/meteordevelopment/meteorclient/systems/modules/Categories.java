@@ -27,7 +27,6 @@ public class Categories {
         Modules.registerCategory(Player);
         Modules.registerCategory(Movement);
         Modules.registerCategory(Render);
-        Modules.registerCategory(World);
         Modules.registerCategory(Misc);
 
         // Addons
