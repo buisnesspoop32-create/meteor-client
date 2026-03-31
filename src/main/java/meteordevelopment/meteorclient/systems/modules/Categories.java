@@ -25,7 +25,6 @@ public class Categories {
         // Meteor
         Modules.registerCategory(Combat);
         Modules.registerCategory(Player);
-        Modules.registerCategory(Movement);
         Modules.registerCategory(Render);
         Modules.registerCategory(Misc);
 
