@@ -24,9 +24,7 @@ public class Categories {
 
         // Meteor
         Modules.registerCategory(Combat);
-        Modules.registerCategory(Player);
-        Modules.registerCategory(Render);
-        Modules.registerCategory(Misc);
+
 
         // Addons
         AddonManager.ADDONS.forEach(MeteorAddon::onRegisterCategories);
